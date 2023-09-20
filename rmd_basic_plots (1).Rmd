@@ -2,7 +2,7 @@
 title: "Basic Plots"
 author: "Pavithra Srinivasan"
 date: September 2023
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
